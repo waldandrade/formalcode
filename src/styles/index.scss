@@ -1,0 +1,21 @@
+.theme--light.application {
+ background: #f1f1f1;
+}
+
+html { overflow: auto; }
+
+.v-toolbar--clipped {
+ z-index: 5
+}
+
+.jlotos-navigation {
+  z-index: 5;
+}
+
+.jlotos-btn-simular {
+  z-index: 10;
+}
+
+.v-tabs__item--active {
+  background-color: #fafafa
+}
